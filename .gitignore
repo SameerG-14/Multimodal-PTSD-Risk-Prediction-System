@@ -1,0 +1,27 @@
+# Python-generated artifacts
+.ipynb_checkpoints/
+__pycache__/
+
+# Project artifacts not meant for source control
+embeddings/
+saved_models/
+
+# Frontend local/build artifacts
+ptsd-frontend/.env*
+ptsd-frontend/.next/
+ptsd-frontend/node_modules/
+ptsd-frontend/.pnp
+ptsd-frontend/.pnp.*
+ptsd-frontend/.yarn/*
+ptsd-frontend/coverage/
+ptsd-frontend/out/
+ptsd-frontend/build/
+ptsd-frontend/.vercel/
+ptsd-frontend/*.pem
+ptsd-frontend/npm-debug.log*
+ptsd-frontend/yarn-debug.log*
+ptsd-frontend/yarn-error.log*
+ptsd-frontend/.pnpm-debug.log*
+ptsd-frontend/*.tsbuildinfo
+ptsd-frontend/next-env.d.ts
+ptsd-frontend/.DS_Store
